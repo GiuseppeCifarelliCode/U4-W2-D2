@@ -168,6 +168,7 @@ namespace AgenziaImmobiliare
                 Menu();
             }
         }
+
         public static void SearchChar()
         {
             Console.WriteLine("Quanti vani stai cercando?");
